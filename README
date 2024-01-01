@@ -1,1 +1,8 @@
 Functions I've used over and over again converted to an include instead of copy pasting between scripts and trying to keep all versions up to date. Feel free to use this however.
+
+INVENTORY MANAGEMENT SECTION
+
+    Available Functions: is_pack_open, get_pack_slot_name, is_top_slot_pack, select_first_item_in_inventory
+	
+MOVEMENT MANAGEMENT SECTION
+    Available Functions: travel_to_remote_zone(w/ Optional Location and Heading)
