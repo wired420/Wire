@@ -5,4 +5,5 @@ INVENTORY MANAGEMENT SECTION
     Available Functions: is_pack_open, get_pack_slot_name, is_top_slot_pack, select_first_item_in_inventory
 	
 MOVEMENT MANAGEMENT SECTION
+
     Available Functions: travel_to_remote_zone(w/ Optional Location and Heading)
